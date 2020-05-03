@@ -1,2 +1,2 @@
 # try-git
-git testing
+this is for tutorial purpose git testing.
